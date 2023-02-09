@@ -175,4 +175,13 @@ nav ul li a:hover{
         color: white;
         position: relative;
     }
+    .text{
+    text-transform: capitalize;
+    font-size: 3rem;
+    margin-top: 7%;
+    margin-left: 12%;
+    word-spacing: .2rem;
+    color: rgb(71, 61, 61);
+    
+}
 }
